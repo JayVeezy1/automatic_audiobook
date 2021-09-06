@@ -15,7 +15,7 @@ Step 3: Now every sentence is connected to its respective character. Different m
 
 Step 3.2: This complete workflow needs to be generalised. At the moment I am working with Alice in Wonderland, as it is a license free book. Applying the mechanisms on other books will probably need a lot more training data (which needs to be obtained manually again). 
 
-Step 4: Sending the sentences to a TTS-Engine and choosing a different voice depending on the character-attribute of the sentence is easy. This was also tested with a theatre-script, where a person is always mentioned before each line.
+Step 4: Sending the sentences to a TTS-Engine and choosing a different voice depending on the character-attribute of the sentence is possible. This can be tested with a theatre-script, where a person is always mentioned before each line.
 - At some point it would be nice not to be reliant on the commercial TTS providers as a whole audiobook might get quite costly (for example Amazon Polly Neural costed about 6€ for 200.000 words). However, their neural voices are have quite promising quality.
 - Another great extension would be for users to configure the voices per character in detail. (giving a villain a malicious sounding voice, old people vs. young etc.). Even better would be an automated character-analysis which then sets up the voices for every character.
 - Finally, it might even be possible to use one's own (or a certain actors) voice for the audiobook.
