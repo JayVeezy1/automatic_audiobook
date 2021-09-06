@@ -5,12 +5,13 @@ Step 1: Splitting .txt file into voice_parts (paragraphs of continous speech of 
 
 Step 2: These attributes need to be filled. For this a neural network approach will be proposed in step 3.
 - However the first step, which is currently under way, is to manually fill out these attributes. This strenuous work has to be done once, to obtain a basis for training data.
+- At this step also a "dictionary of personae" has to be created (which will be the Outputs of the neural network).
 - Editing the objects in the JSON file is not useful. Therefore, a web-editor is currently being developed in which the JSON file can be edited more easily. (like a drop-down list of characters so you don't have to type it every time, etc.)
 
 Step 3: Now every sentence is connected to its respective character. Different machine learning methods shall be tested to automate this process.
-- A useful first step might be to analyse which character appears in which chapter
+- A useful first step might be to analyse which character appears in which chapter (making the dictionary of personae focus on each chapter, less output options)
 - A recurrent network with a certain "memory" might be useful to remember who is part of a dialoge/scene. Based on that the sentences can be "tagged"/categorised/allocated to the characters (biggest task yet!)
-- It is not clear yet if results soley based on syntactical aspects are reliable enough. The model probably needs to be based on semantical aspects which means word-level instead of sentence-level. With this, also speaking-patterns of certain characters can be used (one character talking more child-like than another).
+- It is not clear yet if results soley based on syntactical aspects are reliable enough. The model probably needs to be based on semantical aspects which means word-level instead of sentence-level. With this, also speaking-patterns of certain characters can be used (one character talking more child-like than another, also emotions could then be analysed).
 
 Step 4: This complete workflow needs to be generalised. At the moment I am working with Alice in Wonderland, as it is a license free book. Applying the mechanisms on other books will probably need a lot more training data (which needs to be obtained manually again). 
 
