@@ -1,0 +1,6092 @@
+[
+    {
+        "chapter": 0,
+        "voice_part_id": 0,
+        "sentence_id": 0,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "The Boy in the Iceberg",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 0,
+        "sentence_id": 2,
+        "character": "Written By",
+        "finalVoice": "Narrator",
+        "text": "Michael Dante DiMartino, Bryan Konietzko",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 0,
+        "sentence_id": 4,
+        "character": "Directed By",
+        "finalVoice": "Narrator",
+        "text": "Dave Filoni",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 0,
+        "sentence_id": 6,
+        "character": "Storyboard By",
+        "finalVoice": "Narrator",
+        "text": "Giancarlo Volpe, Dave Filoni, Justin Ridge",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 0,
+        "sentence_id": 8,
+        "character": "Animation By",
+        "finalVoice": "Narrator",
+        "text": "JM Animation Co, Ltd",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 0,
+        "sentence_id": 10,
+        "character": "Transcribers",
+        "finalVoice": "Narrator",
+        "text": "Acastus, Pandora",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 0,
+        "sentence_id": 12,
+        "character": "0_scene_change",
+        "finalVoice": "Narrator",
+        "text": "[Introduction sequence - The introduction to this first episode is longer than the standard sequence that introduces the rest of the Avatar episodes.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 0,
+        "sentence_id": 13,
+        "character": "0_scene_change",
+        "finalVoice": "Narrator",
+        "text": "It contains more background than the standard sequence.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 0,
+        "sentence_id": 14,
+        "character": "0_scene_change",
+        "finalVoice": "Narrator",
+        "text": "The animation contains some additions to accommodate the longer narrative.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 0,
+        "sentence_id": 15,
+        "character": "0_scene_change",
+        "finalVoice": "Narrator",
+        "text": "The trip through the map to the Fire Nation amphibious assault is longer, the shot of the Avatar silhouetted by the sun is longer, and the third paragraph below is accompanied by a pan right shot over a still frame that shows a burning landscape ravaged by war.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 0,
+        "sentence_id": 16,
+        "character": "0_scene_change",
+        "finalVoice": "Narrator",
+        "text": "Also, the narration around the departure of her father is voiced over shots of the Water Tribe ships departing, and of a younger Katara and Sokka watching them leave.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 0,
+        "sentence_id": 17,
+        "character": "0_scene_change",
+        "finalVoice": "Narrator",
+        "text": "Lastly, the stone pinnacle on which Aang stands in future episodes is empty.]",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 1,
+        "sentence_id": 19,
+        "character": "Katara (voice over)",
+        "finalVoice": "Katara",
+        "text": "Water... Earth... Fire... Air...My grandmother used to tell me stories about the old days, a time of peace when the Avatar kept balance between the Water Tribes, Earth Kingdom, Fire Nation, and Air Nomads.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 1,
+        "sentence_id": 20,
+        "character": "Katara (voice over)",
+        "finalVoice": "Katara",
+        "text": "But that all changed when the Fire Nation attacked.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 1,
+        "sentence_id": 21,
+        "character": "Katara (voice over)",
+        "finalVoice": "Katara",
+        "text": "Only the Avatar mastered all four elements.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 1,
+        "sentence_id": 22,
+        "character": "Katara (voice over)",
+        "finalVoice": "Katara",
+        "text": "Only he could stop the ruthless firebenders.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 1,
+        "sentence_id": 23,
+        "character": "Katara (voice over)",
+        "finalVoice": "Katara",
+        "text": "But when the world needed him most, he vanished.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 1,
+        "sentence_id": 24,
+        "character": "Katara (voice over)",
+        "finalVoice": "Katara",
+        "text": "A hundred years have passed and the Fire Nation is nearing victory in the war.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 1,
+        "sentence_id": 25,
+        "character": "Katara (voice over)",
+        "finalVoice": "Katara",
+        "text": "Two years ago, my father and the men of my tribe journeyed to the Earth Kingdom to help fight against the Fire Nation, leaving me and my brother to look after our tribe.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 1,
+        "sentence_id": 26,
+        "character": "Katara (voice over)",
+        "finalVoice": "Katara",
+        "text": "Some people believe that the Avatar was never reborn into the Air Nomads and that the cycle is broken, but I haven't lost hope.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 1,
+        "sentence_id": 27,
+        "character": "Katara (voice over)",
+        "finalVoice": "Katara",
+        "text": "I still believe that somehow the Avatar will return to save the world.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 2,
+        "sentence_id": 29,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "Act I",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 2,
+        "sentence_id": 31,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(The show opens with an overhead shot of iceberg laden waters.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 2,
+        "sentence_id": 32,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "The screen pans left and rotates showing footprints in the snow, then fades to soaring pan shot from the air of the icy waters.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 2,
+        "sentence_id": 33,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "As if the shot were taken from the outside of an airplane, the camera banks left as it moves forward.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 2,
+        "sentence_id": 34,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "It comes to rest and slowly zooms in on a two person canoe out among the icebergs.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 2,
+        "sentence_id": 35,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Cut to a closer shot of the canoe.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 2,
+        "sentence_id": 36,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "A teenage boy, Sokka, shaven headed except for a pony tail, stands in the canoe.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 2,
+        "sentence_id": 37,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He looks down at the water, spear at the ready.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 2,
+        "sentence_id": 38,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "The other occupant is a young girl.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 2,
+        "sentence_id": 39,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Both wear blue overcoats.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 2,
+        "sentence_id": 40,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "The canoe drifts slowly as the boy concentrates on fishing.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 2,
+        "sentence_id": 41,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Cut to a close, overhead shot of the canoe.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 2,
+        "sentence_id": 42,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Beside the boat a fish swims close to the surface in front of the boy.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 3,
+        "sentence_id": 44,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "It's not getting away from me this time.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 3,
+        "sentence_id": 45,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Watch and learn, Katara.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 3,
+        "sentence_id": 46,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "This is how you catch a fish.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 4,
+        "sentence_id": 48,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Katara leans over the edge of the canoe to see a fish.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 4,
+        "sentence_id": 49,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Hesitantly, she removes her left glove.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 4,
+        "sentence_id": 50,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "She takes a deep breather and with a look of trepidation begins to motion with her exposed hand.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 4,
+        "sentence_id": 51,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Suddenly, a globe of water containing the fish bursts out of the water.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 5,
+        "sentence_id": 53,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Sokka, look!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 6,
+        "sentence_id": 55,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(whispers)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 7,
+        "sentence_id": 56,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": " Shhh.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 7,
+        "sentence_id": 57,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Katara, you're gonna scare it away.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 7,
+        "sentence_id": 58,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Mmmm...",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 7,
+        "sentence_id": 59,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "I can already smell it cookin'!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 8,
+        "sentence_id": 61,
+        "character": "Katara (trying to retain control of the globe of water)",
+        "finalVoice": "Katara",
+        "text": "But Sokka!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 8,
+        "sentence_id": 62,
+        "character": "Katara (trying to retain control of the globe of water)",
+        "finalVoice": "Katara",
+        "text": "I caught one!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 9,
+        "sentence_id": 64,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(She struggles with the blob of water and it floats closer to Sokka, who raises his spear to strike a fish.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 9,
+        "sentence_id": 65,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "When he cocks his arm back he burst the bubble of water.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 9,
+        "sentence_id": 66,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "The fish falls back into the sea and Sokka gets drenched.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 10,
+        "sentence_id": 68,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Hey!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 11,
+        "sentence_id": 70,
+        "character": "Sokka (very exasperated)",
+        "finalVoice": "Sokka",
+        "text": "Ugh!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 11,
+        "sentence_id": 71,
+        "character": "Sokka (very exasperated)",
+        "finalVoice": "Sokka",
+        "text": "Why is it that every time you play with magic water I get soaked?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 12,
+        "sentence_id": 73,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "It's not magic.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 12,
+        "sentence_id": 74,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "It's waterbending, and it's-",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 13,
+        "sentence_id": 76,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Yeah, yeah, an ancient art unique to our culture, blah blah blah.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 13,
+        "sentence_id": 77,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Look, I'm just saying that if I had weird powers, I'd keep my weirdness to myself.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 14,
+        "sentence_id": 79,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "You're calling me weird?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 14,
+        "sentence_id": 80,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "I'm not the one who makes muscles at myself every time I see my reflection in the water.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 15,
+        "sentence_id": 82,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to Sokka, who is making a muscle and looking at his reflection in the water.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 15,
+        "sentence_id": 83,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He turns to Katara and gives her a look.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 15,
+        "sentence_id": 84,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Suddenly the boat is bumped, they look up to see they have entered an ice packed area.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 15,
+        "sentence_id": 85,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "The begin to work frantically to maneuver the canoe between the icebergs.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 16,
+        "sentence_id": 87,
+        "character": "Katara and Sokka",
+        "finalVoice": "Katara",
+        "text": "Ahhh!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 16,
+        "sentence_id": 89,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Watch out!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 16,
+        "sentence_id": 90,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Go left!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 16,
+        "sentence_id": 91,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Go left!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 17,
+        "sentence_id": 93,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to an overhead shot of the canoe as it threads its way through the ice pack.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 17,
+        "sentence_id": 94,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Icebergs are colliding all around them.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 17,
+        "sentence_id": 95,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Each time they manage to avoid getting crushed between the colliding icebergs, but their safety margins decreases rapidly each time.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 17,
+        "sentence_id": 96,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Finally the canoe is crushed when three icebergs collide at once.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 17,
+        "sentence_id": 97,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Sokka and Katara jump out in time onto one of the icebergs.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 17,
+        "sentence_id": 98,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Cut to a wide shot of the ice field.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 17,
+        "sentence_id": 99,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "They are now at the mercy of the currents.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 17,
+        "sentence_id": 100,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Then cut back to the kids.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 18,
+        "sentence_id": 102,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "You call that left?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 19,
+        "sentence_id": 104,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "You don't like my steering.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 19,
+        "sentence_id": 105,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Well, maybe you should have waterbended us out of the ice.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 20,
+        "sentence_id": 107,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to a wide shot of the kids on their little iceberg.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 20,
+        "sentence_id": 108,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Behind them a huge towering iceberg rears up into the sky.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 21,
+        "sentence_id": 110,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "So it's my fault?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 22,
+        "sentence_id": 112,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "I knew I should have left you home.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 22,
+        "sentence_id": 113,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Leave it to a girl to screw things up.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 23,
+        "sentence_id": 115,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to a close of up Katara, her anger boiling over.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 23,
+        "sentence_id": 116,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "She points at her brother.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 24,
+        "sentence_id": 118,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "You are the most sexist, immature, nut brained...",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 25,
+        "sentence_id": 120,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(As she gets more excited, the iceberg on which they are sitting begins to heave.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 25,
+        "sentence_id": 121,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Switch to a wider shot, where the huge iceberg behind her cracks.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 26,
+        "sentence_id": 123,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Ugh, I'm embarrassed to be related to you!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 26,
+        "sentence_id": 124,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Ever since Mom died I've been doing all the work around camp while you've been off playing soldier!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 27,
+        "sentence_id": 126,
+        "character": "Sokka (noticing the cracking iceberg)",
+        "finalVoice": "Sokka",
+        "text": "Uh... Katara?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 28,
+        "sentence_id": 128,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "I even wash all the clothes!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 28,
+        "sentence_id": 129,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Have you ever smelled your dirty socks?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 28,
+        "sentence_id": 130,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Let me tell you, NOT PLEASANT!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 29,
+        "sentence_id": 132,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Katara!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 29,
+        "sentence_id": 133,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Settle down!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 30,
+        "sentence_id": 135,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "No, that's it.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 30,
+        "sentence_id": 136,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "I'm done helping you.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 30,
+        "sentence_id": 137,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "From now on, you're on your own!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 31,
+        "sentence_id": 139,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(By the end she is screaming.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 31,
+        "sentence_id": 140,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "As she finishes, the iceberg behind her splits open entirely.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 31,
+        "sentence_id": 141,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "It disintegrates and the major pieces fall into the water, pushing their iceberg away.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 31,
+        "sentence_id": 142,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "They hold on desperately until the iceberg settles.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 32,
+        "sentence_id": 144,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Okay, you've gone from weird to freakish, Katara.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 33,
+        "sentence_id": 146,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "You mean I did that?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 34,
+        "sentence_id": 148,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Yup.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 34,
+        "sentence_id": 149,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Congratulations.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 35,
+        "sentence_id": 151,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(They both are leaning over the edge of the iceberg raft.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 35,
+        "sentence_id": 152,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Suddenly, the water just in front of them begins to glow an incandescent blue.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 35,
+        "sentence_id": 153,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "They move backwards on their raft as another, lighter colored iceberg breaks the surface.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 35,
+        "sentence_id": 154,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "It is unclear whether this is part of the one Katara broke up or not.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 35,
+        "sentence_id": 155,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "As the new iceberg settles, Katara walks to edge of their iceberg raft to get a better look.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 35,
+        "sentence_id": 156,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Deep in the ice, the figure of a boy in a meditation pose is seen.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 35,
+        "sentence_id": 157,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He has white arrows on his fists and on his bald head.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 35,
+        "sentence_id": 158,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Suddenly, his eyes glow and his arrow markings glow white.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 36,
+        "sentence_id": 160,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "He's alive!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 36,
+        "sentence_id": 161,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "We have to help.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 37,
+        "sentence_id": 163,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(She grabs Sokka's hockey stick type spear, pulls down her hood and turns to go to the boy.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 38,
+        "sentence_id": 165,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Katara!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 38,
+        "sentence_id": 166,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Get back here!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 38,
+        "sentence_id": 167,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "We don't know what that thing is!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 169,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "(Katara ignores him and skips across a few little icebergs to arrive at the one in which the boy is trapped.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 170,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "Sokka follows.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 171,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "She begins to use the hockey stick to whack the ice.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 172,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "After a few big whacks, she cracks open the ice.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 173,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "It looks like air is released, as if the iceberg had a hollow chamber within it, but it is not entirely clear.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 174,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "The iceberg then cracks from top to bottom and explodes open.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 175,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "A huge shaft of white blue light shoots straight into the heavens.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 176,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "Cut to a quick shot of the iceberg from underwater where it glows brightly, then to shot an above ground shot from somewhere nearby where the shaft of light and the aurora australis is clearly seen in the background.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 177,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "The foreground is occupied by a herd of tiger seals, who rear themselves up and roar at the phenomenon.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 179,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "Cut to a view of an iron hulled battleship with a spiked prow cutting through the sea also nearby.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 180,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "It is apparently steam powered as it has a single smokestack.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 181,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "The foredeck is much longer than the afterdeck.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 182,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "The bridge appears to be several decks above the main deck.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 183,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "Cut to a shot of the back of a young man on the foredeck dressed in red, also shaven-headed except for a pony-tail, staring intently at the shaft of light in front of the ship.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 184,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "Then cut to a shot of his face, still illuminated by the shaft of light.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 185,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "The left side of his face is badly scarred around his left eye.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 186,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "This is Prince Zuko.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 39,
+        "sentence_id": 187,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "The light from the light shaft dissipates.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 40,
+        "sentence_id": 189,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "Finally.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 41,
+        "sentence_id": 190,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(He turns to address someone o.c.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 42,
+        "sentence_id": 191,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "Uncle, do you realize what this means?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 43,
+        "sentence_id": 193,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to an old man seated cross legged at a low table, drinking tea and playing a game involving domino like objects.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 44,
+        "sentence_id": 195,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "I won't get to finish my game?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 45,
+        "sentence_id": 197,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "It means my search - it's about to come to an end.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 46,
+        "sentence_id": 199,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Iroh groans.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 47,
+        "sentence_id": 201,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "That light came from an incredibly powerful source.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 47,
+        "sentence_id": 202,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "It has to be him!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 48,
+        "sentence_id": 204,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "Or it's just the celestial lights.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 48,
+        "sentence_id": 205,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "We've been down this road before, Prince Zuko.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 48,
+        "sentence_id": 206,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "I don't want you to get too excited over nothing.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 48,
+        "sentence_id": 207,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "Please, sit.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 48,
+        "sentence_id": 208,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "Why don't you enjoy a cup of calming jasmine tea?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 49,
+        "sentence_id": 210,
+        "character": "Zuko (exploding in anger)",
+        "finalVoice": "Zuko",
+        "text": "I don't need any calming tea!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 49,
+        "sentence_id": 211,
+        "character": "Zuko (exploding in anger)",
+        "finalVoice": "Zuko",
+        "text": "I need to capture the Avatar.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 49,
+        "sentence_id": 212,
+        "character": "Zuko (exploding in anger)",
+        "finalVoice": "Zuko",
+        "text": "Helmsman, head a course for the light!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 50,
+        "sentence_id": 214,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut back to a wide shot of the exploded iceberg, which quickly shifts to Sokka still shielding his sister from the blast that just dissipated.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 50,
+        "sentence_id": 215,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "They look up to see residual blue light still swirling around the top of what is left of the iceberg.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 50,
+        "sentence_id": 216,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Suddenly, the boy appears, his eyes and arrow markings still aglow.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 51,
+        "sentence_id": 218,
+        "character": "Sokka (raising his spear at the boy)",
+        "finalVoice": "Sokka",
+        "text": "Stop!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 52,
+        "sentence_id": 220,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(The boy stands up as the glow and residual energy fades.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 52,
+        "sentence_id": 221,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He seems to pass out and slides down the side of the ruined iceberg to Sokka and Katara, who lunges forward and catches him as he falls.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 52,
+        "sentence_id": 222,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Sokka pokes Aang in the head with the blunt end of his weapon.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 53,
+        "sentence_id": 224,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Stop it!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 54,
+        "sentence_id": 226,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(She gives Sokka the Heisman and turns to the boy.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 54,
+        "sentence_id": 227,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "She gently turns him over so that he is lying on his back.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 54,
+        "sentence_id": 228,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He begins to wake up.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 54,
+        "sentence_id": 229,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He slowly opens his eyes and the camera switches to the boy's p.o.v.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 54,
+        "sentence_id": 230,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "to show his view of Katara.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 54,
+        "sentence_id": 231,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "A breeze gently blows her braids and we hear him intake a breath.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 55,
+        "sentence_id": 233,
+        "character": "Aang (whispering in a weak voice)",
+        "finalVoice": "Aang",
+        "text": "I need to ask you something.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 56,
+        "sentence_id": 235,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "What?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 57,
+        "sentence_id": 237,
+        "character": "Aang (still whispering)",
+        "finalVoice": "Aang",
+        "text": "Please... come closer.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 58,
+        "sentence_id": 239,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "What is it?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 59,
+        "sentence_id": 241,
+        "character": "Aang (in a normal, even excited voice)",
+        "finalVoice": "Aang",
+        "text": "Will you go penguin sledding with me?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 60,
+        "sentence_id": 243,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Uh... sure.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 60,
+        "sentence_id": 244,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "I guess.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 61,
+        "sentence_id": 246,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Aang airbends himself to his feet as he starts to rub the back of his head.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 62,
+        "sentence_id": 248,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Ahh!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 63,
+        "sentence_id": 250,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "What's going on here?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 64,
+        "sentence_id": 252,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "You tell us!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 64,
+        "sentence_id": 253,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "How'd you get in the ice?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 65,
+        "sentence_id": 254,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Poking Aang with his spear)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 66,
+        "sentence_id": 255,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": " And why aren't you frozen?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 67,
+        "sentence_id": 257,
+        "character": "Aang (batting the spear anway, absently)",
+        "finalVoice": "Aang",
+        "text": "I'm not sure.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 68,
+        "sentence_id": 259,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Aang gasps as a low, animal like noise is heard from o.c.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 68,
+        "sentence_id": 260,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "and begins to frantically climb back up the ruined iceberg.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 68,
+        "sentence_id": 261,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He jumps over the lip of what is in fact now a crater and lands on a huge furry animal.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 69,
+        "sentence_id": 263,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Appa!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 69,
+        "sentence_id": 264,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Are you all right?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 69,
+        "sentence_id": 265,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Wake up, buddy.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 70,
+        "sentence_id": 267,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(He leans down and opens one of the beasts eyes.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 70,
+        "sentence_id": 268,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He closes it again.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 70,
+        "sentence_id": 269,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Aang hops down and tries to lift the animal's huge head, but without effect.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 70,
+        "sentence_id": 270,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Katara and Sokka come around the corner and their mouths drop in shock as the see the monster, whose mouth opens and licks the boy trying to wake him up.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 71,
+        "sentence_id": 272,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Haha!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 71,
+        "sentence_id": 273,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "You're okay!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 72,
+        "sentence_id": 275,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(He hugs Appa, then cut to a wide shot of the destroyed iceberg.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 72,
+        "sentence_id": 276,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Appa occupies most of the crater left by the explosion.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 72,
+        "sentence_id": 277,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He is a huge flying bison with six legs and horns like a steer.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 72,
+        "sentence_id": 278,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He gets up and shakes himself off a bit.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 73,
+        "sentence_id": 280,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "What is that thing?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 74,
+        "sentence_id": 282,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "This is Appa, my flying bison.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 75,
+        "sentence_id": 284,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Right.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 75,
+        "sentence_id": 285,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "And this is Katara, my flying sister.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 76,
+        "sentence_id": 287,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Aang is about to reply, but doesn't as Appa begins to sneeze.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 76,
+        "sentence_id": 288,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Aang ducks in time as Appa proceeds to sneeze all over Sokka.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 77,
+        "sentence_id": 290,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Ewww!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 77,
+        "sentence_id": 291,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Aahh!!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 77,
+        "sentence_id": 292,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 78,
+        "sentence_id": 294,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Sokka, covered in snot, tries to get rid of it by rolling around on the ice and snow.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 79,
+        "sentence_id": 296,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Don't worry.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 79,
+        "sentence_id": 297,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "It'll wash out.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 80,
+        "sentence_id": 299,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Ugh!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 81,
+        "sentence_id": 301,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "So, do you guys live around here?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 82,
+        "sentence_id": 303,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Don't answer that!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 82,
+        "sentence_id": 304,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Did you see that crazy bolt of light?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 82,
+        "sentence_id": 305,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "He was probably trying to signal the Fire Navy.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 83,
+        "sentence_id": 307,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Oh, yeah, I'm sure he's a spy for the Fire Navy.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 83,
+        "sentence_id": 308,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "You can tell by that evil look in his eye.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 84,
+        "sentence_id": 310,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to a shot of Aang's innocent face, his smile accompanied by a funny sound effect.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 85,
+        "sentence_id": 312,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "The paranoid one is my brother, Sokka.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 85,
+        "sentence_id": 313,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "You never told us your name.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 86,
+        "sentence_id": 315,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "I'm A... aaaahhhh... ahhhhhh.... aaah aaah aaah AAAAAAACHOOOO!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 87,
+        "sentence_id": 317,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(As Aang sneezes he zooms of the ground far into the air.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 87,
+        "sentence_id": 318,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He responds to her question after he lands to the whistling sound of a bomb dropping.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 88,
+        "sentence_id": 320,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "I'm Aang.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 89,
+        "sentence_id": 321,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(He sniffles and rubs his nose.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 89,
+        "sentence_id": 323,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(incredulous)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 90,
+        "sentence_id": 324,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": " You just sneezed... and flew ten feet in the air.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 91,
+        "sentence_id": 326,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Really?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 91,
+        "sentence_id": 327,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "It felt higher that that.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 92,
+        "sentence_id": 329,
+        "character": "Katara (gasping)",
+        "finalVoice": "Katara",
+        "text": "You're an airbender!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 93,
+        "sentence_id": 331,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Sure am.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 94,
+        "sentence_id": 333,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Giant light beams... flying bison... airbenders...",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 94,
+        "sentence_id": 334,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "I think I've got Midnight Sun Madness.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 94,
+        "sentence_id": 335,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "I'm going home to where stuff makes sense.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 95,
+        "sentence_id": 337,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Sokka turns to walk off, but is stopped at the iceberg's edge.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 95,
+        "sentence_id": 338,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "The camera zooms way out to show how desolate the area is.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 95,
+        "sentence_id": 339,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Just sea and ice.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 96,
+        "sentence_id": 341,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Well, if you guys are stuck Appa and I can give you a lift.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 97,
+        "sentence_id": 343,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Aang airbends himself onto Appa's head, then to the top of his back where rests an enormous saddle.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 97,
+        "sentence_id": 344,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Reigns are attached to both of Appa's great horns.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 98,
+        "sentence_id": 346,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "We'd love a ride!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 98,
+        "sentence_id": 347,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Thanks!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 99,
+        "sentence_id": 348,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(She gets on Appa.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 100,
+        "sentence_id": 350,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Oh, no...",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 100,
+        "sentence_id": 351,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "I am not getting on that fluffy snot monster.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 101,
+        "sentence_id": 353,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Are you hoping some other kind of monster will come along and give you a ride home?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 101,
+        "sentence_id": 354,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "You know... before you freeze to death?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 102,
+        "sentence_id": 356,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Sokka starts to say something and gives up before he does.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 102,
+        "sentence_id": 357,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He sighs.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 102,
+        "sentence_id": 358,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Cut to Katara and Sokka in the back part of the saddle.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 102,
+        "sentence_id": 359,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Katara looks excited.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 102,
+        "sentence_id": 360,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Sokka looks grumpy, arms folded across his chest.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 103,
+        "sentence_id": 362,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Okay.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 103,
+        "sentence_id": 363,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "First time flyers, hold on tight!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 103,
+        "sentence_id": 364,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Appa, yip yip!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 104,
+        "sentence_id": 366,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Aang shakes the reigns and Appa makes a low rumble.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 104,
+        "sentence_id": 367,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Cut to a rear shot of Appa.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 104,
+        "sentence_id": 368,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He flaps his huge beaver tail and then launches into the air.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 104,
+        "sentence_id": 369,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He spreads his legs wide, but then comes right back down into the water with a huge splash.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 104,
+        "sentence_id": 370,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He begins to swim them forward.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 105,
+        "sentence_id": 372,
+        "character": "Aang (shaking the reigns again)",
+        "finalVoice": "Aang",
+        "text": "Come on, Appa.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 105,
+        "sentence_id": 373,
+        "character": "Aang (shaking the reigns again)",
+        "finalVoice": "Aang",
+        "text": "Yip yip.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 106,
+        "sentence_id": 375,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Wow.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 106,
+        "sentence_id": 376,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "That was truly amazing.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 107,
+        "sentence_id": 378,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Appa's just tired.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 107,
+        "sentence_id": 379,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "A little rest and he'll be soaring through the sky.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 107,
+        "sentence_id": 380,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "You'll see.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 108,
+        "sentence_id": 382,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(He makes a \u201csoaring through the sky\u201d motion with his hand, his eyes finally resting on Katara.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 108,
+        "sentence_id": 383,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He leaves them there, a smile on his face as he looks at her.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 109,
+        "sentence_id": 385,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Why are you smiling at me like that?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 110,
+        "sentence_id": 387,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Oh...",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 110,
+        "sentence_id": 388,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "I was smiling?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 111,
+        "sentence_id": 390,
+        "character": "Sokka (disgusted)",
+        "finalVoice": "Sokka",
+        "text": "Uuuuugh.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 112,
+        "sentence_id": 392,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to a shot of Appa swimming through the water, flopping his tale.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 112,
+        "sentence_id": 393,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Fade back to Prince Zuko's Fire Navy ship.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 112,
+        "sentence_id": 394,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Zuko, on the spotting deck off the bridge looking forward, is approached by Iroh.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 112,
+        "sentence_id": 395,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "It is now night.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 113,
+        "sentence_id": 397,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "I'm going to bed now.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 114,
+        "sentence_id": 398,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(He makes an exaggerated yawn)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 115,
+        "sentence_id": 399,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": " Yep.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 115,
+        "sentence_id": 400,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "A man needs his rest.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 115,
+        "sentence_id": 401,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "Prince Zuko, you need some sleep.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 115,
+        "sentence_id": 402,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "Even if you're right and the Avatar is alive, you won't find him.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 115,
+        "sentence_id": 403,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "Your father, grandfather, and great-grandfather all tried and failed.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 116,
+        "sentence_id": 405,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "Because their honor didn't hinge on the Avatar's capture.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 116,
+        "sentence_id": 406,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "Mine does.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 116,
+        "sentence_id": 407,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "This coward's hundred years in hiding are over.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 117,
+        "sentence_id": 409,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Fade back to a long shot of Appa swimming, his friends on his back.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 117,
+        "sentence_id": 410,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Cut to a closer, overhead shot.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 117,
+        "sentence_id": 411,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Aang lies back on top of Appa's head.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 117,
+        "sentence_id": 412,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Katara, in the saddle on Appa's back with her brother, crawls forward and looks down from the saddle at Aang.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 118,
+        "sentence_id": 414,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Hey.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 119,
+        "sentence_id": 416,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Hey.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 119,
+        "sentence_id": 417,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Whatcha thinkin' about?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 120,
+        "sentence_id": 419,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "I guess I was wondering \u2013 your being an airbender and all \u2013 if you had any idea what happened to the Avatar.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 121,
+        "sentence_id": 421,
+        "character": "Aang (looking disconcerted)",
+        "finalVoice": "Aang",
+        "text": "Uhh... no.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 121,
+        "sentence_id": 422,
+        "character": "Aang (looking disconcerted)",
+        "finalVoice": "Aang",
+        "text": "I didn't know him...",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 121,
+        "sentence_id": 423,
+        "character": "Aang (looking disconcerted)",
+        "finalVoice": "Aang",
+        "text": "I mean, I knew people that knew him, but I didn't.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 121,
+        "sentence_id": 424,
+        "character": "Aang (looking disconcerted)",
+        "finalVoice": "Aang",
+        "text": "Sorry.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 122,
+        "sentence_id": 426,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Okay.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 122,
+        "sentence_id": 427,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Just curious.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 122,
+        "sentence_id": 428,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Goodnight.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 123,
+        "sentence_id": 430,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Sleep tight.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 124,
+        "sentence_id": 432,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Katara turns away and the camera zooms up to Aang, who also looks away, an expression of fear on his face.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 124,
+        "sentence_id": 433,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Cut to a long shot of Appa swimming again before a cut to commercial break.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 124,
+        "sentence_id": 435,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "Act II",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 124,
+        "sentence_id": 437,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(The show returns to Aang in a dream.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 124,
+        "sentence_id": 438,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "The colors are grays, cr\u00e8mes and pale browns.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 124,
+        "sentence_id": 439,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He wakes up on top of Appa and the view rotates with Aang in Appa's saddle, then cut to Aang struggling against Appa's reigns with heavy rain coming down.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 125,
+        "sentence_id": 441,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Aaahhh!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 126,
+        "sentence_id": 443,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to an underwater shot, where Aang and Appa suddenly penetrate the surface and enter the watery depths.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 126,
+        "sentence_id": 444,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "They come up briefly for air, Appa groans, but they are once again driven under the storm tossed waves.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 126,
+        "sentence_id": 445,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "As they drift downward, Aang drops Appa's reigns and begins to lose consciousness.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 126,
+        "sentence_id": 446,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Suddenly, Aang's eyes and markings glow white.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 126,
+        "sentence_id": 447,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He puts his hands together and he freezes himself and Appa in a huge ball of ice.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 127,
+        "sentence_id": 449,
+        "character": "Katara (voice over)",
+        "finalVoice": "Katara",
+        "text": "Aang!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 127,
+        "sentence_id": 450,
+        "character": "Katara (voice over)",
+        "finalVoice": "Katara",
+        "text": "Aang, wake up!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 128,
+        "sentence_id": 451,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(He wakes up, gasping)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 129,
+        "sentence_id": 452,
+        "character": "Katara (voice over)",
+        "finalVoice": "Katara",
+        "text": " It's okay.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 129,
+        "sentence_id": 453,
+        "character": "Katara (voice over)",
+        "finalVoice": "Katara",
+        "text": "We're in the village now.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 129,
+        "sentence_id": 454,
+        "character": "Katara (voice over)",
+        "finalVoice": "Katara",
+        "text": "Come on, get ready.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 129,
+        "sentence_id": 455,
+        "character": "Katara (voice over)",
+        "finalVoice": "Katara",
+        "text": "Everyone's waiting to meet you.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 130,
+        "sentence_id": 457,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Aang gets up and puts on his shirt and hood.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 130,
+        "sentence_id": 458,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Katara looks at his airbender tattoos.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 130,
+        "sentence_id": 459,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "She grabs Aang by the hand and drags him outside.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 130,
+        "sentence_id": 460,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He carries a staff with him.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 131,
+        "sentence_id": 462,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Whaaaa!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 132,
+        "sentence_id": 464,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to a wide overhead shot as Katara pulls him out.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 132,
+        "sentence_id": 465,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "A small crowd has gathered to greet him.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 132,
+        "sentence_id": 466,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "It is composed of women of various ages and children.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 133,
+        "sentence_id": 468,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Aang, this is the entire village.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 133,
+        "sentence_id": 469,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Entire village, Aang.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 134,
+        "sentence_id": 471,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Aang bows to them in a friendly manner, but the people pull back from him anyway.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 135,
+        "sentence_id": 473,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Uh... why are they all looking at me like that?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 135,
+        "sentence_id": 474,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Did Appa sneeze on me?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 136,
+        "sentence_id": 476,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(An old woman enters the frame as Aang inspects his clothes for bison snot.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 136,
+        "sentence_id": 478,
+        "character": "Gran Gran",
+        "finalVoice": "Narrator",
+        "text": "Well, no one has seen an airbender in a hundred years.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 136,
+        "sentence_id": 479,
+        "character": "Gran Gran",
+        "finalVoice": "Narrator",
+        "text": "We thought they were extinct until my granddaughter and grandson found you.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 137,
+        "sentence_id": 481,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "'Extinct'?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 138,
+        "sentence_id": 483,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Aang, this is my grandmother.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 139,
+        "sentence_id": 485,
+        "character": "Gran Gran",
+        "finalVoice": "Narrator",
+        "text": "Call me Gran Gran.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 140,
+        "sentence_id": 487,
+        "character": "Sokka (grabbing Aang's staff)",
+        "finalVoice": "Sokka",
+        "text": "What is this, a weapon?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 140,
+        "sentence_id": 488,
+        "character": "Sokka (grabbing Aang's staff)",
+        "finalVoice": "Sokka",
+        "text": "You can't stab anything with this.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 141,
+        "sentence_id": 490,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "It's not for stabbing.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 142,
+        "sentence_id": 491,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(He creates a jet of air that sucks the staff back into his hand.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 143,
+        "sentence_id": 492,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "It's for airbending.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 144,
+        "sentence_id": 494,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Aang opens the staff into a glider with red wings.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 144,
+        "sentence_id": 496,
+        "character": "Little Girl",
+        "finalVoice": "Narrator",
+        "text": "Magic trick!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 144,
+        "sentence_id": 497,
+        "character": "Little Girl",
+        "finalVoice": "Narrator",
+        "text": "Do it again!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 145,
+        "sentence_id": 499,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Not magic, airbending.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 145,
+        "sentence_id": 500,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "It lets me control the air currents around my glider and fly.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 146,
+        "sentence_id": 502,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "You know, last time I checked, humans can't fly.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 147,
+        "sentence_id": 504,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Check again!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 148,
+        "sentence_id": 506,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Aang launches himself into the air with his glider.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 148,
+        "sentence_id": 507,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He soars through the air, doing loops as the villagers on the ground point to him in wonder.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 149,
+        "sentence_id": 509,
+        "character": "Villagers",
+        "finalVoice": "Villagers",
+        "text": "Whoa... it's flying... it's amazing!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 150,
+        "sentence_id": 511,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Aang looks down at Katara who smiles at him.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 150,
+        "sentence_id": 512,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He is so enthralled with her attention that slams right into Sokka's guard tower.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 150,
+        "sentence_id": 513,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He pulls his head out of the tower and falls to the ground with his glider.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 151,
+        "sentence_id": 515,
+        "character": "Aang (as he crashes)",
+        "finalVoice": "Aang",
+        "text": "Oof!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 152,
+        "sentence_id": 517,
+        "character": "Sokka (gasping)",
+        "finalVoice": "Sokka",
+        "text": "My watchtower!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 153,
+        "sentence_id": 519,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "That was amazing.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 154,
+        "sentence_id": 521,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(She helps Aang back to his feet.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 154,
+        "sentence_id": 522,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He twirls his glider shut as Sokka examines the damaged tower behind him.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 154,
+        "sentence_id": 523,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "After Aang closes the glider a huge bank of snow buries Sokka.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 155,
+        "sentence_id": 525,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Great.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 155,
+        "sentence_id": 526,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "You're an airbender, Katara's a waterbender, together you can just waste time all day long.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 156,
+        "sentence_id": 528,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "You're a waterbender!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 157,
+        "sentence_id": 530,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Well... sort of.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 157,
+        "sentence_id": 531,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Not yet.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 158,
+        "sentence_id": 533,
+        "character": "Gran Gran",
+        "finalVoice": "Narrator",
+        "text": "All right.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 158,
+        "sentence_id": 534,
+        "character": "Gran Gran",
+        "finalVoice": "Narrator",
+        "text": "No more playing.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 158,
+        "sentence_id": 535,
+        "character": "Gran Gran",
+        "finalVoice": "Narrator",
+        "text": "Come on, Katara, you have chores.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 158,
+        "sentence_id": 537,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Gran Gran leads Katara away.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 159,
+        "sentence_id": 539,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "I told you!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 159,
+        "sentence_id": 540,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "He's the real thing, Gran Gran!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 159,
+        "sentence_id": 541,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "I finally found a bender to teach me.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 160,
+        "sentence_id": 543,
+        "character": "Gran Gran",
+        "finalVoice": "Narrator",
+        "text": "Katara, try not to put all your hopes in this boy.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 161,
+        "sentence_id": 545,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "But he's special.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 161,
+        "sentence_id": 546,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "I can tell.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 161,
+        "sentence_id": 547,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "I sense he's filled with much wisdom.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 162,
+        "sentence_id": 549,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(She looks over to her right.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 162,
+        "sentence_id": 550,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Cut to Aang with his tongue frozen to his staff, children gathered around him.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 162,
+        "sentence_id": 552,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(slurring)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 163,
+        "sentence_id": 553,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": " Sthee?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 163,
+        "sentence_id": 554,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Now my tongue ith thuck to my sthaff.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 164,
+        "sentence_id": 556,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(A child next to him grabs the staff and yanks, but Aang's tongue stays stuck.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 165,
+        "sentence_id": 558,
+        "character": "Children (clapping)",
+        "finalVoice": "Children",
+        "text": "Tee hee!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 166,
+        "sentence_id": 560,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Fade to an afternoon or sunset shot of Zuko's ship cutting through the waves, then cut to Zuko facing two Fire Navy seamen.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 166,
+        "sentence_id": 561,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Iroh sits nearby.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 167,
+        "sentence_id": 563,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "Again.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 168,
+        "sentence_id": 565,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Zuko blasts fire from his hands at the guards, but misses.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 168,
+        "sentence_id": 566,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Then the guards attack Zuko with blasts of fire from their fists, but Zuko dodges.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 168,
+        "sentence_id": 567,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He back flips over the guards to land behind them.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 169,
+        "sentence_id": 569,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "Ha!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 169,
+        "sentence_id": 570,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "Heeya!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 170,
+        "sentence_id": 572,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Iroh sighs and gets up.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 171,
+        "sentence_id": 574,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "No!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 171,
+        "sentence_id": 575,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "Power in firebending comes from the breath.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 171,
+        "sentence_id": 576,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "Not the muscles.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 171,
+        "sentence_id": 577,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "The breath becomes energy in the body.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 171,
+        "sentence_id": 578,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "The energy extends past your limbs and becomes fire.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 172,
+        "sentence_id": 579,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Iroh demonstrates, releasing a controlling plume of flame that bursts in front of Zuko, but does not hit him)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 173,
+        "sentence_id": 580,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": " Get it right this time.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 174,
+        "sentence_id": 582,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "Enough.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 174,
+        "sentence_id": 583,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "I've been drilling this sequence all day.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 174,
+        "sentence_id": 584,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "Teach me the next set.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 174,
+        "sentence_id": 585,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "I'm more than ready.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 175,
+        "sentence_id": 587,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "No, you are impatient.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 175,
+        "sentence_id": 588,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "You have yet to master your basics.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 176,
+        "sentence_id": 589,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(More forcefully)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 177,
+        "sentence_id": 590,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": " Drill it again!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 178,
+        "sentence_id": 592,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "Grrrr... huh!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 179,
+        "sentence_id": 593,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(He blasts one of the guards backwards with a gout of fire.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 180,
+        "sentence_id": 594,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "The sages tell us that the Avatar is the last airbender.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 180,
+        "sentence_id": 595,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "He must be over a hundred years old by now.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 180,
+        "sentence_id": 596,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "He's had a century to master the four elements.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 180,
+        "sentence_id": 597,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "I'll need more than basic firebending to defeat him.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 180,
+        "sentence_id": 598,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "You WILL teach me the advanced set!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 181,
+        "sentence_id": 600,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "Very well.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 181,
+        "sentence_id": 601,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": "But first I must finish my roast duck.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 182,
+        "sentence_id": 602,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Begins eating)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 183,
+        "sentence_id": 603,
+        "character": "Iroh",
+        "finalVoice": "Iroh",
+        "text": " Num num... num...",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 184,
+        "sentence_id": 605,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to a shot of the afternoon sky.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 184,
+        "sentence_id": 606,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "The screen pans down to reveal Sokka, clearly addressing an audience as he paces back and forth.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 185,
+        "sentence_id": 608,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Now men, it's important that you show no fear when you face a firebender.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 185,
+        "sentence_id": 609,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "In the Water Tribe, we fight to the last man standing.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 185,
+        "sentence_id": 610,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "For without courage, how can we call ourselves men?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 186,
+        "sentence_id": 612,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to the audience.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 186,
+        "sentence_id": 613,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "It is a group of six children, most of whom are toddlers.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 186,
+        "sentence_id": 615,
+        "character": "Little Boy (raising his hand)",
+        "finalVoice": "Narrator",
+        "text": "I gotta pee!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 187,
+        "sentence_id": 617,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Listen!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 187,
+        "sentence_id": 618,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Until your fathers return from the war, they're counting on you to be the men of this tribe.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 187,
+        "sentence_id": 619,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "And that means no potty breaks.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 188,
+        "sentence_id": 621,
+        "character": "Little Boy",
+        "finalVoice": "Narrator",
+        "text": "But I really gotta go.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 189,
+        "sentence_id": 623,
+        "character": "Sokka (sighing)",
+        "finalVoice": "Sokka",
+        "text": "Okay... who else has to go?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 190,
+        "sentence_id": 625,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(All six raise their hands.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 190,
+        "sentence_id": 626,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Sokka slaps his forehead in disgust as all six exit to the right.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 190,
+        "sentence_id": 627,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Katara enters from the left.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 191,
+        "sentence_id": 629,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Have you seen Aang?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 191,
+        "sentence_id": 630,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Gran Gran said he disappeared over an hour ago.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 192,
+        "sentence_id": 632,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to Aang emerging from a small igloo type bathroom stall.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 192,
+        "sentence_id": 633,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He adjusts his pants and smiles at the trip of boys coming to use the toilet.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 193,
+        "sentence_id": 635,
+        "character": "Aang (gesturing over his shoulder at the toilet)",
+        "finalVoice": "Aang",
+        "text": "Wow!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 193,
+        "sentence_id": 636,
+        "character": "Aang (gesturing over his shoulder at the toilet)",
+        "finalVoice": "Aang",
+        "text": "Everything freezes in there!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 194,
+        "sentence_id": 638,
+        "character": "Children",
+        "finalVoice": "Children",
+        "text": "Hahaha!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 195,
+        "sentence_id": 640,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Ugh!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 195,
+        "sentence_id": 641,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Katara, get him out of here.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 195,
+        "sentence_id": 642,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "This lesson is for warriors only.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 196,
+        "sentence_id": 644,
+        "character": "Kid (voice over)",
+        "finalVoice": "Narrator",
+        "text": "Wheeee!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 196,
+        "sentence_id": 646,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to a rear shot of Appa, Aang on his back.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 196,
+        "sentence_id": 647,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "They have propped up his tail using a makeshift sawhorse.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 196,
+        "sentence_id": 648,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "A kid has used Appa's back and tail as a slide to land in a pile of snow.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 196,
+        "sentence_id": 649,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "The children, and soon Katara, all start laughing.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 197,
+        "sentence_id": 651,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Stop!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 197,
+        "sentence_id": 652,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "Stop it right now!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 198,
+        "sentence_id": 653,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(To Aang)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 199,
+        "sentence_id": 654,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": " What's wrong with you?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 199,
+        "sentence_id": 655,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "We don't have time for fun and games with a war going on.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 200,
+        "sentence_id": 657,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "What war?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 201,
+        "sentence_id": 658,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(He hops down off of Appa)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 202,
+        "sentence_id": 659,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": " What are you talking about?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 203,
+        "sentence_id": 661,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "You're kidding, right?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 204,
+        "sentence_id": 663,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Aang's gaze shifts slightly off of Sokka to look at something beyond him o.c.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 205,
+        "sentence_id": 665,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "PENGUIN!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 206,
+        "sentence_id": 667,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(To accentuate Aang's exclamation the screen around him vibrates slightly in a visual effect.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 206,
+        "sentence_id": 668,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Cut to a shot of a penguin in distance, visible between Sokka and Katara.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 206,
+        "sentence_id": 669,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "The camera closes on the penguin almost instantly.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 206,
+        "sentence_id": 670,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "The penguin, aware that it has been spotted, makes an excited noise and turns to waddle away.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 206,
+        "sentence_id": 671,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Aang uses his airbending skill to run at unbelievable speed toward the horizon where the penguin had just been.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 207,
+        "sentence_id": 673,
+        "character": "Sokka",
+        "finalVoice": "Sokka",
+        "text": "He's kidding, right?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 208,
+        "sentence_id": 675,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "Act III",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 208,
+        "sentence_id": 677,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Fade to a beach loaded with penguins who waddle around squawking.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 208,
+        "sentence_id": 678,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Katara enters, looking for Aang.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 209,
+        "sentence_id": 680,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Aang?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 210,
+        "sentence_id": 682,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to Aang chasing some penguins, but unable to catch them as the waddle away.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 211,
+        "sentence_id": 684,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Haha!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 211,
+        "sentence_id": 685,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Hey, come on little guy.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 211,
+        "sentence_id": 686,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Wanna go sledding?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 212,
+        "sentence_id": 688,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Aang lunges, but falls flat on his face.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 212,
+        "sentence_id": 689,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He gets back up as Katara approaches.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 213,
+        "sentence_id": 691,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Oof!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 213,
+        "sentence_id": 692,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Heh heh, I have a way with animals.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 214,
+        "sentence_id": 693,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(He puts his arms out and waddles in imitation of the four flippered penguins)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 215,
+        "sentence_id": 694,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": " Yarp!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 215,
+        "sentence_id": 695,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Yarp yarp!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 215,
+        "sentence_id": 696,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Yarp!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 215,
+        "sentence_id": 697,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Yarp yarp!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 215,
+        "sentence_id": 698,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Yarp!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 216,
+        "sentence_id": 700,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(giggles)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 217,
+        "sentence_id": 701,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": " Hahaha... Aang, I'll help you catch a penguin if you teach me waterbending.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 218,
+        "sentence_id": 703,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "You got a deal!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 218,
+        "sentence_id": 704,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Just one little problem.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 218,
+        "sentence_id": 705,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "I'm an airbender, not a waterbender.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 218,
+        "sentence_id": 706,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Isn't there someone in your tribe who can teach you?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 219,
+        "sentence_id": 708,
+        "character": "Katara (looking away in sadness)",
+        "finalVoice": "Katara",
+        "text": "No.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 219,
+        "sentence_id": 709,
+        "character": "Katara (looking away in sadness)",
+        "finalVoice": "Katara",
+        "text": "You're looking at the only waterbender on the whole South Pole.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 220,
+        "sentence_id": 711,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "This isn't right.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 220,
+        "sentence_id": 712,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "A waterbender needs to master water.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 220,
+        "sentence_id": 713,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "What about the North Pole?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 220,
+        "sentence_id": 714,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "There's another Water Tribe up there, right?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 220,
+        "sentence_id": 715,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Maybe they have waterbenders who could teach you.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 221,
+        "sentence_id": 717,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Maybe.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 221,
+        "sentence_id": 718,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "But we haven't had contact with our sister tribe in a long time.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 221,
+        "sentence_id": 719,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "It's not exactly 'turn right at the second glacier.'",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 221,
+        "sentence_id": 720,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "It's on the other side of the world.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 222,
+        "sentence_id": 722,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "But you forget",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 223,
+        "sentence_id": 724,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(then uncertain)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 224,
+        "sentence_id": 725,
+        "character": "Katara (happily)",
+        "finalVoice": "Katara",
+        "text": " I mean, I don't know.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 224,
+        "sentence_id": 726,
+        "character": "Katara (happily)",
+        "finalVoice": "Katara",
+        "text": "I've never left home before.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 225,
+        "sentence_id": 728,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Well, you think about it.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 225,
+        "sentence_id": 729,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "But in the meantime, can you teach me to catch one of these penguins?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 226,
+        "sentence_id": 731,
+        "character": "Katara (mock teacherly tone)",
+        "finalVoice": "Katara",
+        "text": "Okay, listen closely my young pupil.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 226,
+        "sentence_id": 732,
+        "character": "Katara (mock teacherly tone)",
+        "finalVoice": "Katara",
+        "text": "Catching penguins is an ancient and sacred art.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 226,
+        "sentence_id": 733,
+        "character": "Katara (mock teacherly tone)",
+        "finalVoice": "Katara",
+        "text": "Observe.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 227,
+        "sentence_id": 735,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "(She produces a little fish from her coat and tosses it at Aang.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 227,
+        "sentence_id": 736,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "He is instantly surrounded by a horde of hungry penguins.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 227,
+        "sentence_id": 738,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "Fade to a shot of an ice bank.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 227,
+        "sentence_id": 739,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "It appears to be late afternoon.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 227,
+        "sentence_id": 740,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "Suddenly, Katara and Aang rocket off the ice bank, each sitting atop a penguin.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 227,
+        "sentence_id": 741,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "The land on the bank below and continue down at high speed on the penguin's belly.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 227,
+        "sentence_id": 742,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "Aang and his penguin take a jump off a small ramp, eventually landing in front of Katara.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 227,
+        "sentence_id": 743,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "She takes the jump and lands near him.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 227,
+        "sentence_id": 744,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "They laugh and whoop happily.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 228,
+        "sentence_id": 746,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "I haven't done this since I was a kid!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 229,
+        "sentence_id": 748,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "You still are a kid!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 230,
+        "sentence_id": 750,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(They continue to rocket across the frozen landscape, eventually entering system of ice tunnels.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 230,
+        "sentence_id": 751,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "The tunnels are have periodic gaps where sunlight pours through.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 230,
+        "sentence_id": 752,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "They emerge from the tunnels and get off their mounts, which stand up and dizzily wander away making little chirping noises.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 230,
+        "sentence_id": 753,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "They walk forward, looking at something in front of them.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 231,
+        "sentence_id": 755,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Whoa... what is that?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 232,
+        "sentence_id": 757,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to a huge ship locked in the ice in front of them.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 232,
+        "sentence_id": 758,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "It is a derelict Fire Navy ship, silhouetted by the sun behind it.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 233,
+        "sentence_id": 760,
+        "character": "Katara (deathly serious)",
+        "finalVoice": "Katara",
+        "text": "A Fire Navy ship, and a very bad memory for my people.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 234,
+        "sentence_id": 762,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Aang begins to walk to the ship.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 235,
+        "sentence_id": 764,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Aang, stop!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 235,
+        "sentence_id": 765,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "We're not allowed to go near it.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 235,
+        "sentence_id": 766,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "The ship could be booby trapped.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 236,
+        "sentence_id": 768,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "If you wanna be a bender, you have to let go of fear.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 237,
+        "sentence_id": 770,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(She looks uncertain, then follows him to the ship.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 237,
+        "sentence_id": 771,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "They climb up and enter the ship through a gaping hole in one of the forward compartments below the water line.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 237,
+        "sentence_id": 772,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "They walk around the dark corridors inside past many a darkened room.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 238,
+        "sentence_id": 774,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "This ship has haunted my tribe since Gran Gran was a little girl.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 238,
+        "sentence_id": 775,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "It was part of the Fire Nation's first attacks.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 239,
+        "sentence_id": 777,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Okay, back up.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 239,
+        "sentence_id": 778,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "I have friends all over the world, even in the Fire Nation.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 239,
+        "sentence_id": 779,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "I've never seen any war.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 240,
+        "sentence_id": 781,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Aang, how long were you in that iceberg?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 241,
+        "sentence_id": 783,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "I don't know... a few days, maybe?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 242,
+        "sentence_id": 785,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "I think it was more like a hundred years!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 243,
+        "sentence_id": 787,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "What?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 243,
+        "sentence_id": 788,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "That's impossible.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 243,
+        "sentence_id": 789,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Do I look like a hundred-twelve year old man to you?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 244,
+        "sentence_id": 791,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Think about it.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 244,
+        "sentence_id": 792,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "The war is a century old.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 244,
+        "sentence_id": 793,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "You don't know about it because, somehow, you were in there that whole time.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 244,
+        "sentence_id": 794,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "It's the only explanation.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 245,
+        "sentence_id": 796,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Aang puts his hand to his head and walks backward.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 245,
+        "sentence_id": 797,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Stunned by this realization, he sinks to the floor.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 246,
+        "sentence_id": 799,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "A hundred years!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 246,
+        "sentence_id": 800,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "I can't believe it.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 247,
+        "sentence_id": 802,
+        "character": "Katara (kneeling next to him)",
+        "finalVoice": "Katara",
+        "text": "I'm sorry, Aang.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 247,
+        "sentence_id": 803,
+        "character": "Katara (kneeling next to him)",
+        "finalVoice": "Katara",
+        "text": "Maybe somehow there's a bright side to all this.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 248,
+        "sentence_id": 805,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "I did get to meet you.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 249,
+        "sentence_id": 807,
+        "character": "Katara (smiles)",
+        "finalVoice": "Katara",
+        "text": "Come on.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 249,
+        "sentence_id": 808,
+        "character": "Katara (smiles)",
+        "finalVoice": "Katara",
+        "text": "Let's get out of here.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 250,
+        "sentence_id": 810,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(She helps him back to his feet and they start walking once again.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 250,
+        "sentence_id": 811,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Fade to an exterior shot of the Fire Navy ship.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 250,
+        "sentence_id": 812,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Cut back to an interior shot of the ship as Aang enters a darkened room on the ship, Katara behind in the hallway.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 251,
+        "sentence_id": 814,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Aang?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 251,
+        "sentence_id": 815,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "Let's head back.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 251,
+        "sentence_id": 816,
+        "character": "Katara",
+        "finalVoice": "Katara",
+        "text": "This place is creepy.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 252,
+        "sentence_id": 818,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Huh?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 253,
+        "sentence_id": 820,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to a shot of Aang's foot dragging a trip wire on the floor.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 253,
+        "sentence_id": 821,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Behind them the door is blocked by a grate that drops from the ceiling.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 253,
+        "sentence_id": 822,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "They grab it just after it falls shut.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 253,
+        "sentence_id": 823,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "They are trapped.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 254,
+        "sentence_id": 825,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "What's that you said about booby traps?",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 255,
+        "sentence_id": 827,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Around them, machinery in the room starts to operate.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 255,
+        "sentence_id": 828,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Gauges show steam pressure and wheels begin to turn.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 255,
+        "sentence_id": 829,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Steam begins to pour out of some of the equipment.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 255,
+        "sentence_id": 830,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Cut to an exterior shot of the ship.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 255,
+        "sentence_id": 831,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Suddenly, a bright flare explodes out of the Fire Navy ship and into the sky, leaving a trail of smoke behind it.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 255,
+        "sentence_id": 832,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Cut back to Aang and Katara looking out the window of the ship's bridge.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 256,
+        "sentence_id": 834,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Uh oh.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 257,
+        "sentence_id": 836,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut back to the flare as it rises.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 257,
+        "sentence_id": 837,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "When it reaches its zenith it explodes with a small shower of sparks.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 257,
+        "sentence_id": 838,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "Cut back to Aang and Katara with a wide shot on the bridge.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 257,
+        "sentence_id": 839,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "There is a hole in the ceiling that Aang is looking at.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 258,
+        "sentence_id": 841,
+        "character": "Aang",
+        "finalVoice": "Aang",
+        "text": "Hold on tight!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 259,
+        "sentence_id": 843,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "(He grabs Katara, who cries out in surprise, and launches them both through the hole in the ceiling.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 259,
+        "sentence_id": 844,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "He lands with her in his arms on top of the bridge.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 259,
+        "sentence_id": 846,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "Cut to a long shot of the falling flare as seen through the lens of a telescope.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 259,
+        "sentence_id": 847,
+        "character": "0_Narrator",
+        "finalVoice": "Narrator",
+        "text": "The telescope follows the flare down for a few moments, before shifting downwards to show Aang hopping down the ship and the ice which encases it to the ground below, Katara still in his arms.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 260,
+        "sentence_id": 849,
+        "character": "Zuko (voice over)",
+        "finalVoice": "Zuko",
+        "text": "The last airbender.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 261,
+        "sentence_id": 850,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to a profile view of Zuko looking through his telescope)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 262,
+        "sentence_id": 851,
+        "character": "Zuko (voice over)",
+        "finalVoice": "Zuko",
+        "text": " Quite agile for his old age.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 262,
+        "sentence_id": 852,
+        "character": "Zuko (voice over)",
+        "finalVoice": "Zuko",
+        "text": "Wake my uncle!",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 262,
+        "sentence_id": 853,
+        "character": "Zuko (voice over)",
+        "finalVoice": "Zuko",
+        "text": "Tell him I found the Avatar...",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 263,
+        "sentence_id": 855,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "(Zuko looks back into his telescope to see Aang and Katara running across the ice away from the ship.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 263,
+        "sentence_id": 856,
+        "character": "0_direction",
+        "finalVoice": "Narrator",
+        "text": "He then scans left quickly, then pulls it back right to focus on Katara's village.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 264,
+        "sentence_id": 858,
+        "character": "Zuko",
+        "finalVoice": "Zuko",
+        "text": "...as well as his hiding place.",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 0,
+        "voice_part_id": 265,
+        "sentence_id": 860,
+        "character": "direction",
+        "finalVoice": "Narrator",
+        "text": "(Cut to a close up of Zuko's left eye, the scarred one, which arches in determination.)",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    },
+    {
+        "chapter": 1,
+        "voice_part_id": 265,
+        "sentence_id": 862,
+        "character": "0_scene_change",
+        "finalVoice": "Narrator",
+        "text": "[End Credits]",
+        "emotion_per_sentence": "-",
+        "speed": "-"
+    }
+]
