@@ -16,7 +16,7 @@ The goal of this project is to transform any text (.txt format) into a qualitati
 - It is not clear yet if results soley based on syntactical aspects are reliable enough. The model probably needs to be based on **semantical aspects which means word-level** instead of sentence-level. With this, also speaking-patterns of certain characters can be used (one character talking more child-like than another, also emotions could then be analysed).
 
 
-**Step 4:** **Sending the sentences to a TTS-service** and choosing a different voice depending on the character-attribute of the sentence is possible. This can be tested with a theatre-script, where a person is always mentioned before each line.
+**Step 4:** **Sending the sentences to a TTS-service** and choosing a different voice depending on the character-attribute of the sentence is possible. This was tested with a theatre-script, where helpfully a character is always mentioned before each line (see step 0).
 - At some point it would be nice not to be reliant on the commercial TTS providers as a whole audiobook might get quite costly (for example Amazon Polly Neural costed about 6€ for 200.000 words). However, their neural voices are have quite promising quality. Open Source TTS solutions will be tested.
 - Another great extension would be for **users to configure the voices per character** in detail. (giving a villain a malicious sounding voice, old people vs. young etc.). Even better would be an automated character-analysis which then sets up the voices for every character.
 - Finally, it might even be possible to use one's own (or a certain actors) voice for the audiobook.
