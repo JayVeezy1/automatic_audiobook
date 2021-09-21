@@ -7,7 +7,7 @@ The goal of this project is to transform any text (.txt format) into a qualitati
 **Step 2:** These attributes need to be filled. For this a neural network approach will be proposed in step 3.
 - However the first step, which is currently under way, is to **manually fill out these attributes.** This strenuous work has to be done once, to obtain a **basis for training data**.
 - At this step also a "dictionary of personae" has to be created (which will be the Outputs of the neural network).
-- Editing the objects in the JSON file is not useful. Therefore, a **web-editor is currently being developed in which the JSON file can be edited** more easily. (like a drop-down list of characters so you don't have to type it every time, etc.)
+- Editing the objects in the JSON file is not useful. Therefore, a **python-GUI-editor is currently being developed in which the JSON file can be edited** more easily. (like a drop-down list of characters so you don't have to type it every time, etc. - at first a web-editor was planned but the javascript implementations are not ideal)
 
 
 **Step 3:** Now every sentence is connected to its respective character. Different **machine learning methods shall be tested to automate this process**.
